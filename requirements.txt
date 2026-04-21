@@ -1,0 +1,25 @@
+# Enhanced NIDS — Python dependencies
+# Install: pip install -r requirements.txt
+
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data science
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Explainability (novelty over base paper)
+shap>=0.43.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Real-time dashboard (novelty over base paper)
+streamlit>=1.28.0
+
+# Utilities
+tqdm>=4.65.0
+joblib>=1.3.0
